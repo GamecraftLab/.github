@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an idea or improvement
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it useful?
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Community rules
+      options:
+        - label: This request does not involve distributing or linking to ROMs, BIOS files, firmware or games.
+          required: true
