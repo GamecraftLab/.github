@@ -8,7 +8,7 @@
 
 Video breakdowns of game mechanics and systems, open-source tools for players and developers, and Unity assets.
 
-[YouTube](https://www.youtube.com/@gamecraftlaboratory)
+[YouTube](https://www.youtube.com/@gamecraftlaboratory) · [Unity Asset Store](https://assetstore.unity.com/publishers/158532)
 
 </div>
 
